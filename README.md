@@ -37,5 +37,5 @@ Main topics: **sentiment analysis** and **automatic intelligence**.
 
 
 
-TODO
-- [] Find papers from intersection of language acquisition, semi-supervised learning, and sentiment analysis
+# TODO
+- [ ] Find papers from intersection of language acquisition, semi-supervised learning, and sentiment analysis
