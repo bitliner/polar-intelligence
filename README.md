@@ -9,7 +9,7 @@ Main topics: **sentiment analysis** and **automatic intelligence**.
 ### Surveys
 - **2016** - http://people.few.eur.nl/frasincar/papers/TKDE2016/tkde2016.pdf
 
-### Feb 2016
+`Feb 2016`
 
 #### Exploiting New Sentiment-Based Meta-level Features for Effective Sentiment Analysis
 
@@ -25,9 +25,7 @@ Main topics: **sentiment analysis** and **automatic intelligence**.
   - transform original feature space into a smaller and more informed one 
 - **Link**: http://homepages.dcc.ufmg.br/~fabricio/download/wsdm377-canutoA1.pdf
 
-### Oct 2015 
-
-#### http://ieeexplore.ieee.org/abstract/document/7296633/
+`Oct 2015`
 
 - **Topic**: 
   - Sentiment Embeddings - Encode text not only with context, but also with sentiment - 
