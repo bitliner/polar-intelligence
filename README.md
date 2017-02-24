@@ -1,4 +1,4 @@
-# polar-research
+# 📖 polar-intelligence
 
 My reading of academic papers and research notes.
 
