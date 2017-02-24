@@ -6,6 +6,9 @@ Main topics: **sentiment analysis** and **automatic intelligence**.
 
 ## Sentiment Analysis
 
+### Surveys
+- **2016** - http://people.few.eur.nl/frasincar/papers/TKDE2016/tkde2016.pdf
+
 ### Feb 2016
 
 #### Exploiting New Sentiment-Based Meta-level Features for Effective Sentiment Analysis
@@ -23,14 +26,20 @@ Main topics: **sentiment analysis** and **automatic intelligence**.
 
 **Link**: http://homepages.dcc.ufmg.br/~fabricio/download/wsdm377-canutoA1.pdf
 
-- Oct 2015 - 
-    - Topic: Sentiment Embeddings - Encode text not only with context, but also with sentiment - 
-    - Performance: outperforms on multiple datasets the context-based embeddings
-    - Benefits:
-        - Inspire same encoding in other specific tasks
-        - Apply encoding to improve sentiment
-    -  Link: http://ieeexplore.ieee.org/abstract/document/7296633/
+### Oct 2015 
 
-Surveys
-- ? 2016 - http://people.few.eur.nl/frasincar/papers/TKDE2016/tkde2016.pdf
+#### http://ieeexplore.ieee.org/abstract/document/7296633/
+
+**Topic**: 
+- Sentiment Embeddings - Encode text not only with context, but also with sentiment - 
+
+**Performance**: 
+- outperforms on multiple datasets the context-based embeddings
+**Benefits**:
+- Inspire same encoding in other specific tasks
+- Apply encoding to improve sentiment
+
+**Link**: http://ieeexplore.ieee.org/abstract/document/7296633/
+
+
 
