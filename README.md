@@ -36,6 +36,12 @@ Main topics: **sentiment analysis** and **automatic intelligence**.
   - Apply encoding to improve sentiment
 - **Link**: http://ieeexplore.ieee.org/abstract/document/7296633/
 
+`Oct 2013`
+
+#### Rule-based Information Extraction is Dead! Long Live Rule-based Information Extraction Systems!
+- **Topics**:
+  - Gap on IE techniques between market and research community, and a roadmap to fill the gap. Gap caused by different perception of usefuless of rule-based systems by the research community 
+
 
 
 # TODO
