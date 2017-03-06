@@ -41,6 +41,7 @@ Main topics: **sentiment analysis** and **automatic intelligence**.
 #### Rule-based Information Extraction is Dead! Long Live Rule-based Information Extraction Systems!
 - **Topics**:
   - Gap on IE techniques between market and research community, and a roadmap to fill the gap. Gap caused by different perception of usefuless of rule-based systems by the research community 
+- **Link**: https://aclweb.org/anthology/D/D13/D13-1079.pdf
 
 
 
