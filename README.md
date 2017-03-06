@@ -9,6 +9,13 @@ Main topics: **sentiment analysis** and **automatic intelligence**.
 ### Surveys
 - **2016** - http://people.few.eur.nl/frasincar/papers/TKDE2016/tkde2016.pdf
 
+`2017`
+
+#### 🔖 A Roadmap for Natural Language Processing Research in Information 
+- **Topic**: 
+  - Analysis of NLP research in 2004/2015, in order to identify state of NLP research, trends and define a roadmap
+- **Link**: https://scholarspace.manoa.hawaii.edu/bitstream/10125/41285/1/paper0136.pdf
+
 `Feb 2016`
 
 #### Exploiting New Sentiment-Based Meta-level Features for Effective Sentiment Analysis
