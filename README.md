@@ -11,6 +11,13 @@ Main topics: **sentiment analysis** and **automatic intelligence**.
 
 `2017`
 
+#### 🔖 Emergence of Grounded Compositional Language in Multi-Agent Populations
+- **Topic**: 
+  - language understanding via agents that learn words in combination with how they affect the world, rather than spotting patterns in a huge corpus of text. Supporting [Gary Marcus's](https://www.technologyreview.com/s/601551/algorithms-that-learn-with-less-data-could-expand-ais-power/) ideas. 
+- **Authors**: Igor Mordatch (OpenAI), Pieter Abbeel (OpenAI)
+- **Link**: [Paper](https://arxiv.org/abs/1703.04908) - [Blog Article](https://www.openai.com/blog/learning-to-communicate/)
+
+
 #### 🔖 A Roadmap for Natural Language Processing Research in Information 
 - **Topic**: 
   - Analysis of NLP research in 2004/2015, in order to identify state of NLP research, trends and define a roadmap
