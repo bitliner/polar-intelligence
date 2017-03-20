@@ -11,6 +11,13 @@ Main topics: **sentiment analysis** and **automatic intelligence**.
 
 `2017`
 
+#### Learning when to skim and when to read
+- **Topic**: 
+  - simple models VS complex models 
+- **Authors**: Medamind Blog
+- **Link**: [Article](https://metamind.io/research/learning-when-to-skim-and-when-to-read)
+
+
 #### 🔖 Emergence of Grounded Compositional Language in Multi-Agent Populations
 - **Topic**: 
   - language understanding via agents that learn words in combination with how they affect the world, rather than spotting patterns in a huge corpus of text. Supporting [Gary Marcus's](https://www.technologyreview.com/s/601551/algorithms-that-learn-with-less-data-could-expand-ais-power/) ideas. 
