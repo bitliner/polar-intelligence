@@ -11,6 +11,13 @@ Main topics: **sentiment analysis** and **automatic intelligence**.
 
 `2017`
 
+#### Sentiment Neuron
+- **Topic**: 
+  - Description of an unsupervised neural network reaching 90% accuracy in sentiment classification. Based on 1 month of training, using 4 GPUs. It does not need any labeled dataset.
+- **Authors**: Open AI
+- **Link**: [Article](https://blog.openai.com/unsupervised-sentiment-neuron/)
+
+
 #### Learning when to skim and when to read
 - **Topic**: 
   - simple models VS complex models 
