@@ -65,6 +65,18 @@ Main topics: **sentiment analysis** and **automatic intelligence**.
   - Apply encoding to improve sentiment
 - **Link**: http://ieeexplore.ieee.org/abstract/document/7296633/
 
+`2014`
+
+#### A Rule-Based Approach to Aspect Extraction from Product Reviews
+- **Topic**: 
+  - Rules for aspect extraction 
+- **Performance**: 
+  - High precision and recall (>90% on certain datasets)
+- **Benefits**:
+  - TBD
+- **Link**: http://aclweb.org/anthology/W/W14/W14-5905.pdf
+
+
 `Oct 2013`
 
 #### 👍 Rule-based Information Extraction is Dead! Long Live Rule-based Information Extraction Systems!
